@@ -1,1 +1,3 @@
 # Retinopathy_detection
+
+## I built a deep learning model that can accurately detect diabetic retinopathy (DR) in retinal images. The model was built using the ResNet50 architecture, which is a pre-trained convolutional neural network (CNN) that has been shown to be effective for image classification tasks. The model was trained on a dataset of retinal images that were labeled as either having DR or not having DR. The model achieved an accuracy of 90% on the test set, which suggests that it is able to accurately detect DR in retinal images. This model could be used to help doctors diagnose DR more accurately, which could lead to earlier treatment and better patient outcomes.
